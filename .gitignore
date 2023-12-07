@@ -1,0 +1,12 @@
+#local terraform dir/folder
+.terraform
+
+#tfstate files
+*.tfstate
+*.tfstate.*
+
+#tfvar file
+*.tfvars
+
+#csv
+*.csv
